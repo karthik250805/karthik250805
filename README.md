@@ -1,8 +1,8 @@
-# Hey Everyone! I'm [Sai Pradyothan Vitta]([https://github.com/Vasukumar3](https://github.com/saipradyothanvitta)) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [Karthik Gandham]([https://github.com/Vasukumar3](https://github.com/karthik250805)) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
 
 # 💫 About Me:
-- 🔭 I’m currently pursuing my graduation at Bennett University <br>- 🌱 I’m currently learning ... Typescript. <br>- 👯  I’ve successfully completed my IIIyr, covering everything from basics to advanced concepts, hands-on tasks, and interview preparation resources to ensure effective and practical learning.
+- 🔭 I’m currently pursuing my graduation at Malla University <br>- 🌱 I’m currently learning ... Typescript. <br>- 👯  I’ve successfully completed my IIIyr, covering everything from basics to advanced concepts, hands-on tasks, and interview preparation resources to ensure effective and practical learning.
 Tips and strategies for mastering Python.
 Practical approaches to task-based learning in programming.
 How to effectively prepare for Python programming interviews.
