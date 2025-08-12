@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently pursuing my graduation at Malla University <br>- 🌱 I’m currently learning ... Typescript. <br>- 👯  I’ve successfully completed my IIIyr, covering everything from basics to advanced concepts, hands-on tasks, and interview preparation resources to ensure effective and practical learning.
+- 🔭 I’m currently pursuing my graduation at Malla Reddy college of engineering and technology <br>- 🌱 I’m currently learning ... Typescript. <br>- 👯  I’ve successfully completed my IIIyr, covering everything from basics to advanced concepts, hands-on tasks, and interview preparation resources to ensure effective and practical learning.
 Tips and strategies for mastering Python.
 Practical approaches to task-based learning in programming.
 How to effectively prepare for Python programming interviews.
