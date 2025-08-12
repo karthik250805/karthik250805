@@ -6,7 +6,7 @@
 Tips and strategies for mastering Python.
 Practical approaches to task-based learning in programming.
 How to effectively prepare for Python programming interviews.
-.<br>- 📫 How to reach me: ... vittasaipradyothan@gmail.com
+.<br>- 📫 How to reach me: ... karthikgandham7473@gmail.com
 
 
 
